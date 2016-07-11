@@ -1,0 +1,20 @@
+{
+  "name": "7yue",
+  "description": "",
+  "main": "",
+  "authors": [
+    "UKkkkkkkkkk <825846102@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
