@@ -1,4 +1,4 @@
 module.exports = {
     secret:'huwenzhe',
-    url:'mongodb://localhost:27017/7yue'
+    url:'mongodb://123.57.143.189:27017/huwenzheblog'
 }
